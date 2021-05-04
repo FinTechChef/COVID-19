@@ -6,7 +6,10 @@ This is the data repository for the 2019 Novel Coronavirus Visual Dashboard oper
 
 
 <b>DATA SOURCES:</b>
- Below are the all sources ever used in the data set, since January 21, 2020. 
+ Below are the all sources ever used in the data set, since January 21, 2020.
+
+ [MyGov.in](https://www.mygov.in/)
+ <a href="https://www.mygov.in/" target="_blank"><img src="https://static.mygov.in/rest/s3fs-public/styles/home-slider-image/public/mygov_161770225178977151.jpg"></a>
 
 <b>JHU Lancet Article:</b>
 [An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
